@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="890" height="620">
+<style>
+  text { font-family: 'Consolas', 'Courier New', monospace; font-size: 14px; white-space: pre; }
+  .ascii { fill: #c9d1d9; }
+  .header { fill: #58a6ff; font-weight: bold; }
+  .separator { fill: #30363d; }
+  .key { fill: #ffa657; }
+  .value { fill: #c9d1d9; }
+  .dots { fill: #484f58; }
+  .section { fill: #ffa657; }
+</style>
+<rect width="890" height="620" fill="#0d1117" rx="10"/>
+<text x="20" y="45" class="ascii">*oahhkbpqqwmmZZOOQLQQLLQQOZmwqqpdbhaao**</text>
+<text x="20" y="65" class="ascii">ahkbdpqwmZO0QQLCJJq#W*oohOQQ0OZwqpdbhhao</text>
+<text x="20" y="85" class="ascii">kbdqqwZO0QLCCJUYXpwJ0&amp;$$$@8hJLQOmwqdbkha</text>
+<text x="20" y="105" class="ascii">dpqwZO0QLCUYYXzvcj;&gt;-fo$$$$MYCL0ZZwqpdkh</text>
+<text x="20" y="125" class="ascii">qwmZOQLJUYXzcvnnj}f}--cM&amp;M$pzYJLQ0Zmqpdk</text>
+<text x="20" y="145" class="ascii">wmO0QCJYXzcvunxx-&lt;].!fCCuJOnucXUCL0Omqpd</text>
+<text x="20" y="165" class="ascii">mZ0LCUYXzcvnxjtf)l?tXZdOZ%wzrnvzYUCQOZwq</text>
+<text x="20" y="185" class="ascii">Z0LCUYzcvnrruULd%&amp;O/rJJLo$@WwujxvzYJL0Zw</text>
+<text x="20" y="205" class="ascii">0LCUYzvunjfv&amp;$$$$$MaU{u#$$MwhoOQJuzYJLOm</text>
+<text x="20" y="225" class="ascii">QLJYXcvnjtCwa$W&amp;BBB&amp;B#@@@%okkb$$$wuzYCQO</text>
+<text x="20" y="245" class="ascii">CJUXzvnrfnpo#%daW$8MB88BB&amp;XOaB$$$$LuzUCQ</text>
+<text x="20" y="265" class="ascii">wmZOQLCUXwkM88kwa$M8$&amp;W8B8v0a8$$$$%QC0Zw</text>
+<text x="20" y="285" class="ascii">oaahkbdqph*M%ohqk$W%$&amp;&amp;BBBXwm*$$$$$Boao#</text>
+<text x="20" y="305" class="ascii">hbbdqwZ0po8@$&amp;a*p@8%$%&amp;@$$0ZZo$$$$$$Bkho</text>
+<text x="20" y="325" class="ascii">akhdmZOda#&amp;@$MkW#@8B$&amp;W8$$oq*o$$$$$$Bbha</text>
+<text x="20" y="345" class="ascii">akhbpmO#&amp;BB$$obM$$$%@%B@@$$@$BB%$$$$Wdha</text>
+<text x="20" y="365" class="ascii">hahdpqwhM&amp;@$$Wb8$$$$@%B$@@@$$@@@$$$$8ho*</text>
+<text x="20" y="385" class="ascii">*ookbdqqMB@$8ha@$$$$@BB@@$$$$$@$$$$$Mo#M</text>
+<text x="410" y="45"><tspan class="header">sabbir@ahmed</tspan> <tspan class="separator">──────────────────────────────────────────────────</tspan></text>
+<text x="410" y="65" class="separator">────────────────────────────────────────────────────────────</text>
+<text x="410" y="85"><tspan class="key">OS</tspan><tspan class="dots">: ··························· </tspan><tspan class="value">Windows 10, Linux</tspan></text>
+<text x="410" y="105"><tspan class="key">Education</tspan><tspan class="dots">: ···················· </tspan><tspan class="value">CSE, Dhaka International University</tspan></text>
+<text x="410" y="125"><tspan class="key">Focus</tspan><tspan class="dots">: ························ </tspan><tspan class="value">Machine Learning, Cybersecurity</tspan></text>
+<text x="410" y="145"> </text>
+<text x="410" y="165"><tspan class="key">Languages.Programming</tspan><tspan class="dots">: ········ </tspan><tspan class="value">Python, SQL</tspan></text>
+<text x="410" y="185"><tspan class="key">Frameworks</tspan><tspan class="dots">: ··················· </tspan><tspan class="value">TensorFlow, Scikit-Learn, Pandas</tspan></text>
+<text x="410" y="205"><tspan class="key">Tools.Security</tspan><tspan class="dots">: ··············· </tspan><tspan class="value">Wireshark, Nmap, Metasploit</tspan></text>
+<text x="410" y="225"><tspan class="key">Tools.Dev</tspan><tspan class="dots">: ···················· </tspan><tspan class="value">Git, Linux, Docker</tspan></text>
+<text x="410" y="245"> </text>
+<text x="410" y="265"><tspan class="key">Hobbies.Research</tspan><tspan class="dots">: ············· </tspan><tspan class="value">ML, Predictive Analytics</tspan></text>
+<text x="410" y="285"><tspan class="key">Hobbies.Security</tspan><tspan class="dots">: ············· </tspan><tspan class="value">Digital Forensics, Pentesting</tspan></text>
+<text x="410" y="305"> </text>
+<text x="410" y="325"><tspan class="dots">─ </tspan><tspan class="section">Contact</tspan><tspan class="dots"> ─────────────────────────────────────────</tspan></text>
+<text x="410" y="345"><tspan class="key">Email.Personal</tspan><tspan class="dots">: ··············· </tspan><tspan class="value">sabbirahmed12546@gmail.com</tspan></text>
+<text x="410" y="365"><tspan class="key">LinkedIn</tspan><tspan class="dots">: ····················· </tspan><tspan class="value">sabbir-ahmed1254</tspan></text>
+<text x="410" y="385"><tspan class="key">GitHub</tspan><tspan class="dots">: ······················· </tspan><tspan class="value">Tony1254-CS</tspan></text>
+<text x="410" y="405"> </text>
+<text x="410" y="425"><tspan class="dots">─ </tspan><tspan class="section">Achievements</tspan><tspan class="dots"> ────────────────────────────────────</tspan></text>
+<text x="410" y="445"><tspan class="key">NASA.SpaceApps</tspan><tspan class="dots">: ··············· </tspan><tspan class="value">Global Nominee, 1st Runner-Up</tspan></text>
+<text x="410" y="465"><tspan class="key">Innovation.WorldCup</tspan><tspan class="dots">: ·········· </tspan><tspan class="value">Finalist</tspan></text>
+<text x="410" y="485"><tspan class="key">Publications</tspan><tspan class="dots">: ················· </tspan><tspan class="value">3 First Author papers</tspan></text>
+<text x="410" y="505"> </text>
+<text x="410" y="525"><tspan class="dots">─ </tspan><tspan class="section">Projects</tspan><tspan class="dots"> ────────────────────────────────────────</tspan></text>
+<text x="410" y="545"><tspan class="key">AION</tspan><tspan class="dots">: ························· </tspan><tspan class="value">AI Research Orchestration</tspan></text>
+<text x="410" y="565"><tspan class="key">NeuroMirror</tspan><tspan class="dots">: ·················· </tspan><tspan class="value">Real-Time Behavioral Intelligence</tspan></text>
+<text x="410" y="585"><tspan class="key">PARALLEL</tspan><tspan class="dots">: ····················· </tspan><tspan class="value">Alternate-Self Simulation</tspan></text>
+</svg>

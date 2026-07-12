@@ -1,1 +1,3 @@
-<div align="center"><img src="assets/hero.svg?v=10" width="100%" alt="Hero" /><img src="assets/bio.svg?v=10" width="100%" alt="Bio" /><img src="assets/projects.svg?v=10" width="100%" alt="Featured Projects" /><img src="assets/publications.svg?v=10" width="100%" alt="Selected Research" /><img src="assets/achievements.svg?v=10" width="100%" alt="Achievements" /><img src="assets/expertise.svg?v=10" width="100%" alt="Core Competencies" /><a href="mailto:sabbirahmed12546@gmail.com" target="_blank"><img src="assets/contact_email.svg?v=10" width="54.1%" alt="Email" /></a><a href="https://www.linkedin.com/in/sabbir-ahmed1254/" target="_blank"><img src="assets/contact_linkedin.svg?v=10" width="14.1%" alt="LinkedIn" /></a><a href="https://github.com/Tony1254-CS" target="_blank"><img src="assets/contact_github.svg?v=10" width="31.8%" alt="GitHub" /></a></div>
+<div align="center">
+  <img src="assets/terminal.svg?v=7" width="100%" alt="Sabbir Ahmed - Terminal Profile" />
+</div>
